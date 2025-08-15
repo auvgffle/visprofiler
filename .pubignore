@@ -1,0 +1,39 @@
+# Development and testing files
+.github/
+DATA_MODELS_IMPLEMENTATION.md
+FIELD_FORMATTING_CHANGES.md
+GOLDEN_TESTS_README.md
+IOS_IMPLEMENTATION_REVIEW.md
+IOS_REVIEW_SUMMARY.md
+IOS_TESTING_GUIDE.md
+QUICK_SETUP.md
+READY_TO_TEST.md
+TESTING_GUIDE.md
+UPDATES.md
+expected_output.json
+expected_output_ios.json
+
+# Build and temporary files
+*.lock
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Testing and development files
+test_runner_output/
+coverage/
+build/
+
+# Example app specific files that shouldn't be in published package
+example/integration_test/
+example/android/gradle/
+example/ios/Pods/
+example/ios/Podfile.lock
+example/ios/Runner.xcworkspace/
+example/ios/Runner.xcodeproj/
+example/ios/RunnerTests/
