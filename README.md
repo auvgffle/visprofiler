@@ -492,8 +492,8 @@ Visprofiler.instance.init('your_app_id', {}, options: debugOptions);
 
 For technical support, feature requests, or bug reports:
 
-- **GitHub Issues**: [https://github.com/yourusername/visprofiler/issues](https://github.com/yourusername/visprofiler/issues)
-- **Documentation**: [https://github.com/yourusername/visprofiler#readme](https://github.com/yourusername/visprofiler#readme)
+- **GitHub Issues**: [https://github.com/yourusername/visprofiler/issues](https://github.com/auvgffle/visprofiler/issues)
+- **Documentation**: [https://github.com/yourusername/visprofiler#readme](https://github.com/auvgffle/visprofiler#readme)
 
 ## License
 
